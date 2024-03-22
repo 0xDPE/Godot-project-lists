@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://da8qh8icwp1nm"]
+
+[ext_resource type="Texture2D" uid="uid://cwr82vsdu0npa" path="res://sky copy.png" id="1_rws47"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_right = 1158.0
+offset_bottom = 650.0
+texture = ExtResource("1_rws47")
+stretch_mode = 1
